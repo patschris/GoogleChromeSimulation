@@ -2,7 +2,7 @@
 
 ## Description
 The purpsose of this program is to simulate how google chrome works behind the GUI a user sees. The program supports some of the most
-common tasks (see section _Options_)<br/>
+common tasks (see section _Options_).<br/>
 Written in C, Ubuntu 16.04.3 LTS.
 
 ## Options
