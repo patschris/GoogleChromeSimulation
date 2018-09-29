@@ -13,13 +13,13 @@ After the program starts, user has to press one of the following number to execu
 7. *Move right current tab*: swaps the current tab with the one in the right of the current tab, if exists
 8. *Change opening address*: changes the default opening address
 9. *Show opening address*: prints the opening address
-10. *Next site*
-11. *Previous site*
-12. *Show site address*
-13.*Close tab*
-14. *Close session*
-15. *Type new address*
-16. *Exit*
+10. *Next site*: goes to the next site of current tab's list (browser's right arrow button)
+11. *Previous site*: goes to the previous site of current tab's list (browser's left arrow button)
+12. *Show site address*: prints the address of the current site
+13.*Close tab*: closes current tab
+14. *Close session*: closes the browser (all the tabs)
+15. *Type new address*: type new address in the current tab. As a result, the forward/right button is disabled 
+16. *Exit*: closes the program
 
 ## Makefile
  - `make` to compile
