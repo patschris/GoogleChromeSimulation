@@ -1,6 +1,9 @@
 # Google Chrome Simulation
 
 ## Description
+The purpsose of this program is to simulate how google chrome works behind the GUI a user sees. The program supports some of the most
+common tasks (see section _Options_)<br/>
+Written in C, Ubuntu 16.04.3 LTS.
 
 ## Options
 After the program starts, user has to press one of the following number to execute the corresponding command:
@@ -25,4 +28,4 @@ After the program starts, user has to press one of the following number to execu
  - `make` to compile
  - `make clean` to delete the object files and the executable
  - `make run` to execute the program
- - `make check` to run valgrind to check for memory leaks.
+ - `make check` to run valgrind to check for memory leaks
